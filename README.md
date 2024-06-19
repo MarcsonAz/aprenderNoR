@@ -6,11 +6,12 @@ Repositório para armazenar códigos de estudos e práticas que procuro aprender
 
 Projetos tratados
 
-- apply: prática com as funções de apply do R
-
+- apply - applyNoR : prática com as funções de apply do R
+- funcoes - minhaFuncaoNoR : como fazer funções, básico
 
 
 Propostas de projetos
 
 - planilhas com abas (wb)
 - gerenciar arquivos no Google Drive
+- comandos Git
